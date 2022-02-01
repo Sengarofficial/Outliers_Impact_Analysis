@@ -9,4 +9,4 @@ Another Example: Suppose we are dealing with sales forecasting or stock/crypto a
 
 Answer is that we should keep those ouliers(spikes) because these outliers are important factors for the analysis and we have to find the factors for such spikes(outliers) in our analysis. So never ever delete these ouliers.
 
-Similar unusual money transaction is also an outliers in fraud detection dataset but we can't remove those outiers because these outliers(unusual fraud detection)is a factor factor of analysis
+Similar unusual money transaction is also an outliers in fraud detection dataset but we can't remove those outiers because these outliers(unusual fraud detection)is a factor of analysis.
