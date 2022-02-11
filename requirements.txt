@@ -1,6 +1,6 @@
--- Python 3.10
--- Pandas 1.40 
--- Numpy 1.16.0
--- Matplotlib 3.5.1
--- Seaborn 0.11.0
--- Scikit-learn 0.16.1
+Python==3.10
+Pandas==1.40 
+Numpy==1.16.0
+Matplotlib==3.5.1
+Seaborn==0.11.0
+Scikit-learn==0.16.1
